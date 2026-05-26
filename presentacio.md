@@ -25,9 +25,10 @@ Sóc en Miquel Vico, alumne del curs SMX2. Aquí teniu el meu perfil GitHub i el
 
 
 ## 📷 Captures destacades (exemples)
-![Estructura de carpetes del Projecte 04](/tasca02/img_server/captura27.png)
-![README del Projecte 06 (Nexus)](/tasca02/img_server/captura27.png)
-![Kanban utilitzat al Projecte 07](/tasca02/img_server/captura27.png)
+![Estructura de carpetes del Projecte 04](/IMG_presentacio_final/estructura_P04.png)
+![README del Projecte 06 (Nexus)](/IMG_presentacio_final/READMEc1.png)
+![README del Projecte 06 (Nexus)](/IMG_presentacio_final/READMEc2.png)
+![Ordre de tasques i dependències](/IMG_presentacio_final/ordre_tasques.png)
 
 ## 📄 Resum de projectes principals
 | Projecte | Descripció breu |
