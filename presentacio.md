@@ -2,6 +2,8 @@
 
 ## 👤 Presentació personal
 Sóc en Miquel Vico, alumne del curs SMX2. Aquí teniu el meu perfil GitHub i els repositoris dels projectes del curs.
+**Important:** Els projectes 01 (Arranquem) i 02 (Consultoria EverPia) no els vaig realitzar perquè vaig estar cursant una estada **Erasmus** durant aquelles dates.  
+Per tant, els meus projectes comencen a partir del **Projecte 03**. Tota la documentació i repositoris ho reflecteixen.
 
 ## 📌 Índex de la defensa
 1. Perfil GitHub i organització general
@@ -46,4 +48,4 @@ Sóc en Miquel Vico, alumne del curs SMX2. Aquí teniu el meu perfil GitHub i el
 - Utilitzar Kanban + GitHub m’ha ajudat a visualitzar el progrés.
 - Milloraré en: [alguna manca que hagis detectat].
 
-📅 Data defensa: [posa la data]
+
